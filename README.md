@@ -14,7 +14,7 @@ Examen final del semestre OCT2022-MAR2023 de Bioinformática.
 
 
 **Paquetes usados**
-  R y RStudios versión 4.4.6
+  R 3.3.0+ y RStudios versión 4.4.6
   GitHub
   
 
